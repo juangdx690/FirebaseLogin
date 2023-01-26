@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836079888452",
+    "project_id": "perfilesejemplofirebase",
+    "storage_bucket": "perfilesejemplofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836079888452:android:5b7ba621bfd9c1b8737411",
+        "android_client_info": {
+          "package_name": "www.iesmurgi.firebaseejemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836079888452-vttk695l288fa6adv6ht55kvqaluj8fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.iesmurgi.firebaseejemplo",
+            "certificate_hash": "5bb248b8f2c19ba358feaaec941c1933639b3304"
+          }
+        },
+        {
+          "client_id": "836079888452-c236ov7tqa67ocl85hausbsjuvjrcg3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mSAQm2IBIKOZTWYm71BQfmY2bfeEVCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836079888452-c236ov7tqa67ocl85hausbsjuvjrcg3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

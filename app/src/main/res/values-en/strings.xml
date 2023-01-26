@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">FirebaseExample</string>
+
+    <string name="title">Welcome to the app</string>
+    <string name="iniciobtn">Login</string>
+    <string name="registrobtn">SignUp</string>
+
+    <string name="title2">Login to your Account</string>
+    <string name="email">Email</string>
+    <string name="clave">Password</string>
+    <string name="iniciobtn2">Login</string>
+
+
+
+    <string name="title3">SignUp</string>
+    <string name="email2">Emaill</string>
+    <string name="clave2">Password</string>
+    <string name="claveRe">Confirm Password</string>
+    <string name="registrobtn2">SignUp</string>
+
+    <string name="title4">Good morning</string>
+    <string name="hola">Hi</string>
+    <string name="ajustes">Settings</string>
+    <string name="perfiles">See profiles</string>
+    <string name="cerrarSesion">LogOut</string>
+    <string name="correo">Email:</string>
+    <string name="usuario">Username:</string>
+    <string name="nacionalidad">Nationality:</string>
+    <string name="edad">Age:</string>
+
+    <string name="resetclave">Restore password</string>
+    <string name="msg_restablecerclave">Check the email to reset the password.</string>
+    <string name="msg_restablecerclave2">Are you sure you want to reset the password?</string>
+    <string name="borrarUser">Delete user</string>
+    <string name="msg_borraruser">Are you sure to delete the user?</string>
+    <string name="msg_borraruser2">User Deleted</string>
+    <string name="actualizarUser">Update username</string>
+    <string name="msg_actualizarUser">Username has been updated.</string>
+    <string name="actualizarNacio">Update nacionality</string>
+    <string name="msg_actualizarNacio">Nacionality has been updated.</string>
+    <string name="actualizarEdad">Update age</string>
+    <string name="msg_actualizaredad">Age has been updated.</string>
+
+
+    <string name="falloEmailVacio">The email field cannot be empty.</string>
+    <string name="falloEmailPattern">Please enter a valid email address.</string>
+    <string name="modeloEmail">Example: galindo@email.com</string>
+    <string name="falloClaveVacio">The password field cannot be empty.</string>
+    <string name="falloClavePattern">Please enter a valid password.</string>
+    <string name="modeloClave">It must contain: 1 uppercase, 1 lowercase, 1 special character and at least 6 characters.</string>
+    <string name="falloClaveReVacio">The confirm password field cannot be empty.</string>
+    <string name="falloClaveRePattern">Please enter a valid password.</string>
+    <string name="modeloClaveRe">It must contain: 1 uppercase, 1 lowercase, 1 special character and at least 6 characters.</string>
+    <string name="clavesiguales">The passwords have to match.</string>
+
+
+</resources>

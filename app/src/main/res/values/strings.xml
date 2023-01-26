@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">FirebaseEjemplo</string>
+
+    <string name="title">Bienvenido a la app</string>
+    <string name="iniciobtn">Iniciar Sesión</string>
+    <string name="registrobtn">Registrarse</string>
+
+    <string name="title2">Ingrese a su cuenta</string>
+    <string name="email">Correo</string>
+    <string name="clave">Contraseña</string>
+    <string name="iniciobtn2">Iniciar Sesión</string>
+
+
+    <string name="title3">Registrase</string>
+    <string name="email2">Correo</string>
+    <string name="clave2">Contraseña</string>
+    <string name="claveRe">Confirmar contraseña</string>
+    <string name="registrobtn2">Registrarse</string>
+
+    <string name="title4">Buenos días</string>
+    <string name="hola">Hola</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="perfiles">Ver perfiles</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="correo">Correo:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="nacionalidad">Nacionalidad:</string>
+    <string name="edad">Edad:</string>
+
+    <string name="resetclave">Restablecer contraseña</string>
+    <string name="msg_restablecerclave">Mira el email para restablecer la contraseña.</string>
+    <string name="msg_restablecerclave2">¿Seguro que quieres rastablecer la contraseña?</string>
+    <string name="borrarUser">Borrar usuario</string>
+    <string name="msg_borraruser">¿Estas seguro de eliminar el usuario?</string>
+    <string name="msg_borraruser2">Usuario elimanado</string>
+    <string name="actualizarUser">Actualizar nombre usuario</string>
+    <string name="msg_actualizarUser">Se ha actualizado el nombre de usuario.</string>
+    <string name="actualizarNacio">Actualizar nacionalidad.</string>
+    <string name="msg_actualizarNacio">Se ha actualizado la nacionalidad.</string>
+    <string name="actualizarEdad">Actualizar edad.</string>
+    <string name="msg_actualizaredad">Se ha actualizado la edad.</string>
+
+
+
+    <string name="falloEmailVacio">El campo email no puede estar vacio.</string>
+    <string name="falloEmailPattern">Por favor, introduce una dirección de correo electrónico válida.</string>
+    <string name="modeloEmail">Ejemplo: galindo@email.com</string>
+    <string name="falloClaveVacio">El campo contraseña no puede estar vacio.</string>
+    <string name="falloClavePattern">Por favor, introduzca una contraseña válida.</string>
+    <string name="modeloClave">Tiene que contener: 1 mayúscula, 1 minúscula , 1 carácter especial y 6 caraácteres al menos.</string>
+    <string name="falloClaveReVacio">El campo confirma contraseña no puede estar vacio.</string>
+    <string name="falloClaveRePattern">Por favor, introduzca una contraseña válida.</string>
+    <string name="modeloClaveRe">Tiene que contener: 1 mayúscula, 1 minúscula , 1 carácter especial y 6 caraácteres al menos.</string>
+    <string name="clavesiguales">Las contraseñas tienen que coincidir.</string>
+
+
+</resources>
